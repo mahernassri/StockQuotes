@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="sap.cloud.spring.boot.starter.cds4j" type="repository">
+    <properties maven-id="com.sap.cloud.spring.boot:spring-boot-starter-cds4j:2.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-cds4j-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-cds4j-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-sap-vcap-services-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-core-api-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-access-api-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20230618.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-sap-service-operator-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-autoconfigure-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-logging-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-to-slf4j-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jdbc-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-6.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cds4j-api-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
